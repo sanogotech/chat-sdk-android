@@ -3,6 +3,9 @@
 
 ![Main Image](https://media.giphy.com/media/L05Bq9WHSP3PUH6uTF/giphy.gif)
 
+https://chatsdk.co/direct-download/
+
+
 Chat SDK is a fully featured open source instant messaging framework for Android. Chat SDK is fully featured, scalable and flexible and follows the following key principles:
 
 - **Free.** Chat SDK uses the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
